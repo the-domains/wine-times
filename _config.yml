@@ -1,0 +1,28 @@
+name: Wine-Times
+favicon: null
+layout_spectrum: 0.8649690498132259
+typography_spectrum: 0.6585900660138577
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.5574673765804619
+  lightness: 0.7342567273881286
+  saturation: 0.15921284793876112
+  rhythmicContrast: 0.45280859619379044
+purpose: []
