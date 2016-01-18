@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Wine-Times]]></title>
+        <description><![CDATA[Wine-Times]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 18 Jan 2016 17:50:20 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Amarone.]]></title>
+            <description><![CDATA[<article><h1>Amarone.</h1><p></p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/16df03c8b0dc5c0562e726494f54c62cd88cf55b.jpg"></article>]]></description>
+            <link>undefinedamarone/index.html</link>
+            <guid isPermaLink="false">41400688-878c-4276-9046-3f8a940f2cd0</guid>
+            <pubDate>Mon, 18 Jan 2016 17:50:19 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
