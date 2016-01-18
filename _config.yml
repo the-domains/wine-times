@@ -1,7 +1,7 @@
 name: Wine-Times
 favicon: null
-layout_spectrum: 0.8649690498132259
-typography_spectrum: 0.6585900660138577
+layout_spectrum: 0.75512
+typography_spectrum: 0.25512
 cta:
   domain: null
   bucket: null
